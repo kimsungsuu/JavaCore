@@ -8,3 +8,8 @@
 >   - ac.getBean()
 >   - ac.getBeanDefinitionNames()
 >   - ac.getBeanDefinition()
+
+## 2022-11-21
+
+> - BeanDefinition
+> - Spring Singleton pattern
